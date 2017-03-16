@@ -1,0 +1,83 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-03-16 09:37+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: forms.py:30
+msgid "have tags not selected"
+msgstr "还有标签未被选择"
+
+#: forms.py:32
+msgid "had repeat options"
+msgstr "有重复的标签选项"
+
+#: models.py:15 models.py:31 models.py:51 models.py:82
+msgid "Dynamic Tag"
+msgstr "动态标签"
+
+#: models.py:16
+msgid "Dynamic Tags"
+msgstr "动态标签"
+
+#: models.py:18
+msgid "Name"
+msgstr "名称"
+
+#: models.py:19
+msgid "Alias"
+msgstr "别名"
+
+#: models.py:28
+msgid "Tag Item"
+msgstr "标签项"
+
+#: models.py:29
+msgid "Tag Items"
+msgstr "标签项"
+
+#: models.py:33
+msgid "Key"
+msgstr "值"
+
+#: models.py:49 models.py:50
+msgid "Tag Bind"
+msgstr "绑定标签"
+
+#: models.py:53
+msgid "Model"
+msgstr "模型"
+
+#: models.py:54
+msgid "What model would use this tag?"
+msgstr "将要对哪一个模型使用该标签"
+
+#: models.py:75 models.py:76
+msgid "Tag"
+msgstr "标签"
+
+#: models.py:78
+msgid "Model Type"
+msgstr "模型"
+
+#: models.py:80
+msgid "Object Id"
+msgstr "对象Id"
+
+#: models.py:86
+msgid "Value"
+msgstr "值"

@@ -1,0 +1,10 @@
+*.pyc
+dist/
+_build/
+.tox/
+.cache/
+.coverage
+.eggs/
+manage.py
+admin_dynamic_tags*
+db.sqlite3
